@@ -2,3 +2,4 @@
 .idea/
 venv/
 songs_db.pickle
+*.xlsx
