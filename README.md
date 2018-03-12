@@ -1,2 +1,2 @@
 # DiscoverWeeklyArchiver
-Archives discover weekly playlists into Excel
+Archives Spotify discover weekly playlists into Excel
