@@ -1,6 +1,6 @@
-# Discover Weekly Archiver
+# SpotyApps
 
-Discover Weekly Archiver is a python script that archives your discover weekly playlists into a Excel file for later use.
+SpotyApps is a collection of simple scripts that can be run as CRON jobs to automate and make your spotify experience easy and fun.
 
 ## Getting Started
 
