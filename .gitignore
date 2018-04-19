@@ -1,5 +1,4 @@
-.cache-*
+/reader/.cache-*
+/writer/.cache-*
 .idea/
 venv/
-songs_db.pickle
-*.xlsx
